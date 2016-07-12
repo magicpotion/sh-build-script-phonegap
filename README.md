@@ -7,3 +7,5 @@ app name, id and API hosts.
 
 This script should live in project main directory, where the config.xml is.
 you should have a config file with api hostname and app version in your project.
+
+[WIKI DOCUMENTATION](https://github.com/magicpotion/sh-build-script-phonegap/wiki)
